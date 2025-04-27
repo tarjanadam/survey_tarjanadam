@@ -1,1 +1,2 @@
 Ez jelenti az általam létrehozott fájl tartalmát.
+Ez a második sor jelenti az általam létrehozott fájl módosítását. 
